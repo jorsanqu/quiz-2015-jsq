@@ -9,7 +9,7 @@
 			<%= author %> <p>
 
 		<h2>Imagen</h2>
-			 <img src="/public/images/tintin-creditos.jpg" alt="Smiley face" height="42" width="42">  <p>
+	<img src="/public/images/tintin-creditos.jpg" alt="Imagen autor" height="363" width="265">  <p>
 
 
 	</body>
